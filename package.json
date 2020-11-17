@@ -1,0 +1,24 @@
+{
+  "name": "discord_bot_gmc",
+  "version": "1.0.0",
+  "description": "Discord bot voor GuardianMC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "GMC",
+    "Minecraft"
+  ],
+  "author": "Tijn",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
